@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:generic_bloc_provider/generic_bloc_provider.dart';
 import 'package:platzi_trips_avanzado/User/ui/screens/sign_in_screen.dart';
 import 'package:platzi_trips_avanzado/platzi_trips.dart';
+import 'Place/bloc/bloc_place.dart';
 import 'platzi_trips_cupertino.dart';
 import 'package:platzi_trips_avanzado/User/bloc/bloc_user.dart';
 
